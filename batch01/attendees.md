@@ -65,7 +65,7 @@ This file tracks the attendees for Batch 01 of the `Craft Crew Chronicles`.
 | 57      |  -          | AomsiN The F#    | 4/10/2568    | 15:09    | -    |  -     |
 | 58      |  -          | holywisdom    | 4/10/2568    | 15:17    | -    |  -     |
 | 59      |  -          | TAR    | 4/10/2568    | 15:34    | -    |  -     |
-| 60      |  -          | BEST    | 4/10/2568    | 15:54    | -    |  -     |
+| 60      |  -          | BEST    | 4/10/2568    | 15:54    |Eakbordin Fueangkaew    |whatthebest     |
 | 61      |  -          | suparera    | 4/10/2568    | 21:25    | -    |  -     |
 | 62      |  -          | Plankton    | 4/10/2568    | 23:45    | -    |  -     |
 | 63      |  -          | purple    | 5/10/2568    | 00:57    | -    |  -     |
