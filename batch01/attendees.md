@@ -14,4 +14,4 @@ This file tracks the attendees for Batch 01 of the Craft Crew Chronicles.
 | 6       | โต้           | chanunc       | Chanun Chirattikanon | chanunc |
 | 7      |  นุ           | Nujjani       | Nu Panuwat |  nginnu |
 | 8      |  Jinna           | away       | - |  jinna-thong |
-
+| 9      |  ภูมิ           | chocofroz       | Eyes LoveYou |  frozeny |
