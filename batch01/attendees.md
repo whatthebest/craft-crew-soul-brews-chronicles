@@ -70,7 +70,7 @@ This file tracks the attendees for Batch 01 of the `Craft Crew Chronicles`.
 | 62      |  -          | Plankton    | 4/10/2568    | 23:45    | -    |  -     |
 | 63      |  -          | purple    | 5/10/2568    | 00:57    | -    |  -     |
 | 63      |  -          | 9Bank Kamo Pipatphan    | 5/10/2568    | 22:20    | -    |  -     |
-| 64      |  -          | Jack Logmatt    | - | -    | -    |  -     |
+| 64      |  -          | Jack Logmatt    | - | -    | -    |  smilexth    |
 
 
 **Total:** 63 attendees (58 workshop participants merged with 16 detailed attendee records)
