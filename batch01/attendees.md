@@ -45,7 +45,7 @@ This file tracks the attendees for Batch 01 of the `Craft Crew Chronicles`.
 | 37      |  -          | non \| non ⌐◨-◨    | 4/10/2568    | 07:11    | -    |  -     |
 | 38      |  -          | rutch5355    | 4/10/2568    | 07:12    | -    |  -     |
 | 39      |  -          | Firstnapat    | 4/10/2568    | 07:12    | -    |  -     |
-| 40      |  -          | Nnnnut    | 4/10/2568    | 07:12    | -    |  -     |
+| 40      |  นัท          | Nnnnut    | 4/10/2568    | 07:12    | Kamonwat Ratchakot    |  nuttooo     |
 | 41      |  -          | 1FLOW    | 4/10/2568    | 07:13    | -    |  -     |
 | 42      |  -          | keng    | 4/10/2568    | 09:43    | -    |  -     |
 | 43      |  -          | MARCHGIE 1265368926    | 4/10/2568    | 09:44    | -    |  -     |
