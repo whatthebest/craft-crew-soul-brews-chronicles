@@ -11,3 +11,4 @@ This file tracks the attendees for Batch 01 of the Craft Crew Chronicles.
 | 3       | เคน         | pagongamedev  | Pagon Suriyatheewasathitgoon     | pagongamedev               |
 | 4       | Poom         | PandaSamurai  | -    | SupavitW       |
 | 5       | Oat         | Oat Narong  | Oad N. Kanthanu    | Narong-Kanthanu      |
+| 6       | โต้           | chanunc       | Chanun Chirattikanon | chanunc |
