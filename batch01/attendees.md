@@ -17,3 +17,4 @@ This file tracks the attendees for Batch 01 of the `Craft Crew Chronicles`.
 | 9      |  ภูมิ           | chocofroz       | Eyes LoveYou |  frozeny |
 | 10      |  ยีน           | genesiz.       | Wayu Bangkamed |  gene20898 |
 | 11      |  เตอร์           | ter4798       | Tutor Chutinathorakul  |  Ter4798 |
+| 12      |  เอ็ม           | FIBO-       | Suttipong Samaksaman |  mangsriso |
