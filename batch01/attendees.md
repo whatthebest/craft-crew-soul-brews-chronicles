@@ -22,7 +22,7 @@ This file tracks the attendees for Batch 01 of the `Craft Crew Chronicles`.
 | 14      |  พงษ์          | pong_pk007    | -    | -    | Pongsathon Somjai |  pong-pk007 |
 | 15      |  เอิง        | eangaoey / Eangaoey   | 3/10/2568    | 21:16    | Pusacha Thitivorn |  eangaoey |
 | 16      |  BM          | BM    | 3/10/2568    | 21:25    | Yutakit Bm |  Yutthakit |
-| 17      |  -          | POR.    | 3/10/2568    | 21:09    | -    |  -     |
+| 17      |  ปอ          | POR.    | 3/10/2568    | 21:09    | Yuttasak Chatpatchanon    | ROYALCLUB-CM     |
 | 18      |  -          | x-kungz    | 3/10/2568    | 21:14    | -    |  -     |
 | 19      |  -          | TongMaster    | 3/10/2568    | 21:15    | -    |  -     |
 | 20      |  -          | K.Fluke    | 3/10/2568    | 21:15    | -    |  -     |
