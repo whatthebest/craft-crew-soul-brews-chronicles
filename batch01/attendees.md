@@ -70,11 +70,11 @@ This file tracks the attendees for Batch 01 of the `Craft Crew Chronicles`.
 | 62      |  -          | Plankton    | 4/10/2568    | 23:45    | -    |  -     |
 | 63      |  -          | purple    | 5/10/2568    | 00:57    | -    |  -     |
 | 64      |  -          | 9Bank Kamo Pipatphan    | 5/10/2568    | 22:20    | -    |  -     |
-| 65      |  -          | ohmdob   | 5/10/2568    | 22:20    | ohmdob   |  ohmdob     |
+| 65      |  -          | ohmdob   | 5/10/2568    | 22:27    | ohmdob   |  ohmdob     |
 
 **Total:** 63 attendees (58 workshop participants merged with 16 detailed attendee records)
 
 ### Workshop Statistics
 - Date 3/10/2568: 24 participants
 - Date 4/10/2568: 33 participants
-- Date 5/10/2568: 1 participant
+- Date 5/10/2568: 2 participant
