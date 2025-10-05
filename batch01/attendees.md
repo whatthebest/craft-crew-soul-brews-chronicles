@@ -4,4 +4,6 @@ This file tracks the attendees for Batch 01 of the Craft Crew Chronicles.
 
 ## Attendees
 
-- Add attendee names here
+| Number* | Nickname/TH* | Discord Name* | FB Name | GitHub Account |
+|---------|--------------|---------------|---------|----------------|
+| 1       | nat          | nazt          | nazt    |                |
