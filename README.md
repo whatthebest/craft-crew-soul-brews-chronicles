@@ -5,3 +5,7 @@
     
     In the Craft Crew Chronicles, side by side we unite,
     To learn and to journey in the coder’s shared light.
+
+## Attendees
+
+- [Batch 01 Attendees](batch01/attendees.md)
