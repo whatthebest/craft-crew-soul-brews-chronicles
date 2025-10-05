@@ -4,7 +4,7 @@ This file tracks the attendees for Batch 01 of the `Craft Crew Chronicles`.
 
 ## Attendees
 
-| Number* | Nickname/TH* | Discord Name* | FB Name (optional) | GitHub Account |
+| Number* | Nickname/TH* | Discord Name* | Extra Field (FB) (optional) | GitHub Account |
 |---------|--------------|---------------|---------|----------------|
 | 1       | นัท          | nazt          | Nat Weerawan    |   nazt             |
 | 2       | นัท          | catbutter          | -    |   nazt             |
