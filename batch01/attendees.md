@@ -10,3 +10,4 @@ This file tracks the attendees for Batch 01 of the Craft Crew Chronicles.
 | 2       | นัท          | catbutter          | -    |   nazt             |
 | 3       | เคน         | pagongamedev  | Pagon Suriyatheewasathitgoon     | pagongamedev               |
 | 4       | Poom         | PandaSamurai  | -    | SupavitW       |
+| 5       | โต้           | chanunc       | Chanun Chirattikanon | chanunc |
