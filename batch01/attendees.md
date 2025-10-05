@@ -8,3 +8,4 @@ This file tracks the attendees for Batch 01 of the Craft Crew Chronicles.
 |---------|--------------|---------------|---------|----------------|
 | 1       | นัท          | nazt          | Nat Weerawan    |   nazt             |
 | 2       | นัท          | catbutter          | -    |   nazt             |
+| 3       | เคน         | pagongamedev  | Pagon Suriyatheewasathitgoon     | pagongamedev               |
