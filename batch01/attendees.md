@@ -16,3 +16,4 @@ This file tracks the attendees for Batch 01 of the `Craft Crew Chronicles`.
 | 8      |  Jinna           | away       | - |  jinna-thong |
 | 9      |  ภูมิ           | chocofroz       | Eyes LoveYou |  frozeny |
 | 10      |  ยีน           | genesiz.       | Wayu Bangkamed |  gene20898 |
+| 11      |  เอ็ม           | FIBO-       | Suttipong Samaksaman |  mangsriso |
