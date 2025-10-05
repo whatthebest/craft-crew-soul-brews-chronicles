@@ -1,4 +1,4 @@
-# Soul Brews Craft Crew Chronicles
+# Craft Crew Soul Brews Chronicles
 
     Step onto the craft crew’s coding trail,
     Where new tales of code set our adventurous sail.
