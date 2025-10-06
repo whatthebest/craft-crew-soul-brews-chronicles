@@ -84,7 +84,7 @@ This file tracks the attendees for Batch 01 of the `Craft Crew Chronicles`.
 | 73     |  กิจ        |  KitAyu    |  -    |  -    |  supakit anupong |  kingits  |
 | 74     |  Jack        |  Jack Logmatt |  -    |  -    |  Jack Logmatt |  smilexth  |
 
-
+| 76     |  ต้น        |  TonYamano |  -    |  -    |  - |  tonyamano24  |
 
 **Total:** 66 attendees (58 workshop participants merged with 17 detailed attendee records)
 
