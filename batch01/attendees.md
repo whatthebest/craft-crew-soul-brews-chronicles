@@ -61,7 +61,7 @@ This file tracks the attendees for Batch 01 of the `Craft Crew Chronicles`.
 | 53      |  -          | chokky_25    | 4/10/2568    | 14:04    | -    |  -     |
 | 54      |  -          | Macstudiozx    | 4/10/2568    | 14:05    | -    |  -     |
 | 55      |  -          | dearxoasis    | 4/10/2568    | 14:09    | -    |  -     |
-| 56      |  -          | Mek    | 4/10/2568    | 15:00    | -    |  -     |
+| 56      |  เมฆ          | Mek    | 4/10/2568    | 15:00    | Suthawee Weraphong    |  SuthaweeWeraphongCode     |
 | 57      |  -          | AomsiN The F#    | 4/10/2568    | 15:09    | -    |  -     |
 | 58      |  -          | holywisdom    | 4/10/2568    | 15:17    | -    |  -     |
 | 59      |  ต้า         | TAR    | 4/10/2568    | 15:34    | -    |  -     |
