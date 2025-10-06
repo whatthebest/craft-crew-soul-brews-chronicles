@@ -72,8 +72,11 @@ This file tracks the attendees for Batch 01 of the `Craft Crew Chronicles`.
 | 63      |  -          | 9Bank Kamo Pipatphan    | 5/10/2568    | 22:20    | -    |  -     |
 | 64      |  -          | win    | -    | -    | Sittiporn Kawee    |  stpwin     |
 | 65      |  -          | Yim Sutthinee    | -    | -    | Yim Sutthinee    |  Yim Sutthinee     |
+| 66      |  ลี่          | dr.nasa.    | -    | -    | Roongroj Phetkheaw    | DoctorNasa      |
+| 67      |  Gap          | Goo__ooD    | 6/10/2568    | 09:20    |Komkat Meuansechai    |x10geeky     |
+| 68      |  ท๊อฟฟี่          | toffee    | -    | -    | -    |  -     |
 
-**Total:** 63 attendees (58 workshop participants merged with 16 detailed attendee records)
+**Total:** 65 attendees (58 workshop participants merged with 16 detailed attendee records)
 
 ### Workshop Statistics
 - Date 3/10/2568: 24 participants
