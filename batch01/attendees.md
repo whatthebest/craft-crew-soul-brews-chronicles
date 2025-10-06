@@ -69,7 +69,7 @@ This file tracks the attendees for Batch 01 of the `Craft Crew Chronicles`.
 | 61      |  -          | suparera    | 4/10/2568    | 21:25    | -    |  -     |
 | 62      |  แพลงก์ตอน         | Plankton    | 4/10/2568    | 23:45    | -    |  Thirasak1150    |
 | 63      |  -          | purple    | 5/10/2568    | 00:57    | -    |  -     |
-| 64      |  Jack          | Jack Logmatt    | - | -    | -    |  smilexth     |
+| 64      |  Jack          | Jack Logmatt    | -| -    | -   |  smilexth     |
 | 65      |  ohm          | ohmdob   | 5/10/2568    | 22:27    | ohmdob   |  ohmdob     |
 | 66      |  -          | win    | -    | -    | Sittiporn Kawee    |  stpwin     |
 | 67      |  -          | Yim Sutthinee    | -    | -    | Yim Sutthinee    |  Yim Sutthinee     |
