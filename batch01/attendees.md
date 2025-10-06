@@ -82,7 +82,8 @@ This file tracks the attendees for Batch 01 of the `Craft Crew Chronicles`.
 | 71      | bo          | Meyd-605 | 6/10/2568| 10:47 | sujit manitayakul | Meyd-605 |
 | 72      |  กก        |  Tonkok    |  -    |  -    |  napat sarapat |  sarapat-tonkok  |
 | 73     |  กิจ        |  KitAyu    |  -    |  -    |  supakit anupong |  kingits  |
-**Total:** 65 attendees (58 workshop participants merged with 16 detailed attendee records)
+| 74     |  Jack        |  Jack Logmatt    |  -    |  -    |  Jack Logmatt |  smilexth  |
+**Total:** 66 attendees (58 workshop participants merged with 17 detailed attendee records)
 
 ### Workshop Statistics
 - Date 3/10/2568: 24 participants
