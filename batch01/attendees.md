@@ -71,8 +71,9 @@ This file tracks the attendees for Batch 01 of the `Craft Crew Chronicles`.
 | 63      |  -          | purple    | 5/10/2568    | 00:57    | -    |  -     |
 | 63      |  -          | 9Bank Kamo Pipatphan    | 5/10/2568    | 22:20    | -    |  -     |
 | 64      |  -          | win    | -    | -    | Sittiporn Kawee    |  stpwin     |
+| 65      |  Gap          | Goo__ooD    | 6/10/2568    | 09:20    |Komkat Meuansechai    |x10geeky     |
 
-**Total:** 63 attendees (58 workshop participants merged with 16 detailed attendee records)
+**Total:** 65 attendees (58 workshop participants merged with 16 detailed attendee records)
 
 ### Workshop Statistics
 - Date 3/10/2568: 24 participants
