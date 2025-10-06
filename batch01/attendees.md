@@ -85,7 +85,7 @@ This file tracks the attendees for Batch 01 of the `Craft Crew Chronicles`.
 | 74     |  Jack        |  Jack Logmatt |  -    |  -    |  Jack Logmatt |  smilexth  |
 | 75     |  ต้น        |  TonYamano |  -    |  -    |  - |  tonyamano24  |
 | 76     |  Ice        |  ice |  -    |  -    |  iceatis |  atiswetosot  |
-
+| 77     |  อาร์ม        |  Arm Akharin |  -    |  -    |  Akharin Sukcharoen |  armakharin  |
 
 **Total:** 66 attendees (58 workshop participants merged with 17 detailed attendee records)
 
