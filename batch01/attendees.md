@@ -64,7 +64,7 @@ This file tracks the attendees for Batch 01 of the `Craft Crew Chronicles`.
 | 56      |  -          | Mek    | 4/10/2568    | 15:00    | -    |  -     |
 | 57      |  -          | AomsiN The F#    | 4/10/2568    | 15:09    | -    |  -     |
 | 58      |  -          | holywisdom    | 4/10/2568    | 15:17    | -    |  -     |
-| 59      |  -          | TAR    | 4/10/2568    | 15:34    | -    |  -     |
+| 59      |  ต้า         | TAR    | 4/10/2568    | 15:34    | -    |  -     |
 | 60      |  -          | BEST    | 4/10/2568    | 15:54    |Eakbordin Fueangkaew    |whatthebest     |
 | 61      |  -          | suparera    | 4/10/2568    | 21:25    | -    |  -     |
 | 62      |  แพลงก์ตอน         | Plankton    | 4/10/2568    | 23:45    | -    |  Thirasak1150    |
@@ -79,7 +79,8 @@ This file tracks the attendees for Batch 01 of the `Craft Crew Chronicles`.
 | 68      |  ท๊อฟฟี่          | toffee    | -    | -    | -    |  -     |
 | 69      |  เท็น        |  Ten    |  -    |  -    |  Tanawat Palaboon |  ten852456  |
 | 70      | เดียว        | Dyo8144 | -     |   -   |   -                |  SuttirakS |    
-
+| 71      | bo          | Meyd-605 | 6/10/2568| 10:47 | sujit manitayakul | Meyd-605 |
+| 72      |  กก        |  Tonkok    |  -    |  -    |  napat sarapat |  sarapat-tonkok  |
 **Total:** 65 attendees (58 workshop participants merged with 16 detailed attendee records)
 
 ### Workshop Statistics
