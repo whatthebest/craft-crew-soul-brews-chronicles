@@ -22,7 +22,7 @@ This file tracks the attendees for Batch 01 of the `Craft Crew Chronicles`.
 | 14      |  พงษ์          | pong_pk007    | -    | -    | Pongsathon Somjai |  pong-pk007 |
 | 15      |  เอิง        | eangaoey / Eangaoey   | 3/10/2568    | 21:16    | Pusacha Thitivorn |  eangaoey |
 | 16      |  BM          | BM    | 3/10/2568    | 21:25    | Yutakit Bm |  Yutthakit |
-| 17      |  -          | POR.    | 3/10/2568    | 21:09    | -    |  -     |
+| 17      |  ปอ          | POR.    | 3/10/2568    | 21:09    | Yuttasak Chatpatchanon    | ROYALCLUB-CM     |
 | 18      |  -          | x-kungz    | 3/10/2568    | 21:14    | -    |  -     |
 | 19      |  -          | TongMaster    | 3/10/2568    | 21:15    | -    |  -     |
 | 20      |  -          | K.Fluke    | 3/10/2568    | 21:15    | -    |  -     |
@@ -38,18 +38,18 @@ This file tracks the attendees for Batch 01 of the `Craft Crew Chronicles`.
 | 30      |  -          | Parit    | 3/10/2568    | 22:13    | -    |  -     |
 | 31      |  -          | Jarkius    | 3/10/2568    | 22:16    | -    |  -     |
 | 32      |  -          | SanTi    | 3/10/2568    | 22:48    | -    |  -     |
-| 33      |  -          | Jirayu S    | 3/10/2568    | 23:22    | -    |  -     |
+| 33      |  แบงค์          | Jirayu S    | 3/10/2568    | 23:22    | -    |  Jirayu Saengwannakool     |
 | 34      |  -          | yuto    | 4/10/2568    | 06:28    | -    |  -     |
 | 35      |  -          | Johnwick5    | 4/10/2568    | 06:45    | -    |  -     |
 | 36      |  -          | ArigatoKun    | 4/10/2568    | 07:00    | -    |  -     |
 | 37      |  -          | non \| non ⌐◨-◨    | 4/10/2568    | 07:11    | -    |  -     |
 | 38      |  -          | rutch5355    | 4/10/2568    | 07:12    | -    |  -     |
 | 39      |  -          | Firstnapat    | 4/10/2568    | 07:12    | -    |  -     |
-| 40      |  -          | Nnnnut    | 4/10/2568    | 07:12    | -    |  -     |
+| 40      |  นัท          | Nnnnut    | 4/10/2568    | 07:12    | Kamonwat Ratchakot    |  nuttooo     |
 | 41      |  -          | 1FLOW    | 4/10/2568    | 07:13    | -    |  -     |
 | 42      |  -          | keng    | 4/10/2568    | 09:43    | -    |  -     |
 | 43      |  -          | MARCHGIE 1265368926    | 4/10/2568    | 09:44    | -    |  -     |
-| 44      |  -          | Hashim.    | 4/10/2568    | 09:48    | -    |  -     |
+| 44      | Hashim          | Hashim.    | 4/10/2568    | 09:48    | Hashim Ruengsupapichat    |  hashim     |
 | 45      |  -          | 𝐏𝐓𝐃    | 4/10/2568    | 10:23    | -    |  -     |
 | 46      |  -          | ballworawut_    | 4/10/2568    | 10:28    | -    |  -     |
 | 47      |  -          | Charkrid    | 4/10/2568    | 10:29    | -    |  -     |
@@ -65,12 +65,12 @@ This file tracks the attendees for Batch 01 of the `Craft Crew Chronicles`.
 | 57      |  -          | AomsiN The F#    | 4/10/2568    | 15:09    | -    |  -     |
 | 58      |  -          | holywisdom    | 4/10/2568    | 15:17    | -    |  -     |
 | 59      |  -          | TAR    | 4/10/2568    | 15:34    | -    |  -     |
-| 60      |  -          | BEST    | 4/10/2568    | 15:54    | -    |  -     |
+| 60      |  -          | BEST    | 4/10/2568    | 15:54    |Eakbordin Fueangkaew    |whatthebest     |
 | 61      |  -          | suparera    | 4/10/2568    | 21:25    | -    |  -     |
 | 62      |  -          | Plankton    | 4/10/2568    | 23:45    | -    |  -     |
 | 63      |  -          | purple    | 5/10/2568    | 00:57    | -    |  -     |
 | 64      |  -          | 9Bank Kamo Pipatphan    | 5/10/2568    | 22:20    | -    |  -     |
-| 65      |  -          | ohmdob   | 5/10/2568    | 22:27    | ohmdob   |  ohmdob     |
+| 65      |  ohm          | ohmdob   | 5/10/2568    | 22:27    | ohmdob   |  ohmdob     |
 
 **Total:** 63 attendees (58 workshop participants merged with 16 detailed attendee records)
 
