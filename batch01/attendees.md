@@ -79,6 +79,7 @@ This file tracks the attendees for Batch 01 of the `Craft Crew Chronicles`.
 | 68      |  ท๊อฟฟี่          | toffee    | -    | -    | -    |  -     |
 | 69 | bo | Meyd-605 | 6/10/2568| 10:47 | sujit manitayakul | Meyd-605 |
 | 70      |  เท็น        |  Ten    |  -    |  -    |  Tanawat Palaboon |  ten852456  |
+| 71      |  กก        |  Tonkok    |  -    |  -    |  napat sarapat |  sarapat-tonkok  |
 **Total:** 65 attendees (58 workshop participants merged with 16 detailed attendee records)
 
 ### Workshop Statistics
