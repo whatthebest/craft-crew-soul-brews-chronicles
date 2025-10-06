@@ -42,7 +42,7 @@ This file tracks the attendees for Batch 01 of the `Craft Crew Chronicles`.
 | 34      |  -          | yuto    | 4/10/2568    | 06:28    | -    |  -     |
 | 35      |  -          | Johnwick5    | 4/10/2568    | 06:45    | -    |  -     |
 | 36      |  -          | ArigatoKun    | 4/10/2568    | 07:00    | -    |  -     |
-| 37      |  -          | non \| non ⌐◨-◨    | 4/10/2568    | 07:11    | -    |  -     |
+| 37      |  นนท์          | non \| non ⌐◨-◨    | 4/10/2568    | 07:11    | Nonthasak Laoluerat |  mojisejr     |
 | 38      |  -          | rutch5355    | 4/10/2568    | 07:12    | -    |  -     |
 | 39      |  -          | Firstnapat    | 4/10/2568    | 07:12    | -    |  -     |
 | 40      |  นัท          | Nnnnut    | 4/10/2568    | 07:12    | Kamonwat Ratchakot    |  nuttooo     |
@@ -50,7 +50,7 @@ This file tracks the attendees for Batch 01 of the `Craft Crew Chronicles`.
 | 42      |  -          | keng    | 4/10/2568    | 09:43    | -    |  -     |
 | 43      |  -          | MARCHGIE 1265368926    | 4/10/2568    | 09:44    | -    |  -     |
 | 44      | Hashim          | Hashim.    | 4/10/2568    | 09:48    | Hashim Ruengsupapichat    |  hashim     |
-| 45      |  -          | 𝐏𝐓𝐃    | 4/10/2568    | 10:23    | -    |  -     |
+| 45      |  ปอ          | 𝐏𝐓𝐃    | 4/10/2568    | 10:23    | -    |  porjinwoo     |
 | 46      |  -          | ballworawut_    | 4/10/2568    | 10:28    | -    |  -     |
 | 47      |  -          | Charkrid    | 4/10/2568    | 10:29    | -    |  -     |
 | 48      |  -          | Bentley    | 4/10/2568    | 10:41    | -    |  -     |
@@ -83,8 +83,9 @@ This file tracks the attendees for Batch 01 of the `Craft Crew Chronicles`.
 | 72      |  กก        |  Tonkok    |  -    |  -    |  napat sarapat |  sarapat-tonkok  |
 | 73     |  กิจ        |  KitAyu    |  -    |  -    |  supakit anupong |  kingits  |
 | 74     |  Jack        |  Jack Logmatt |  -    |  -    |  Jack Logmatt |  smilexth  |
+| 75     |  ต้น        |  TonYamano |  -    |  -    |  - |  tonyamano24  |
+| 76     |  Ice        |  ice |  -    |  -    |  iceatis |  atiswetosot  |
 
-| 76     |  ต้น        |  TonYamano |  -    |  -    |  - |  tonyamano24  |
 
 **Total:** 66 attendees (58 workshop participants merged with 17 detailed attendee records)
 
