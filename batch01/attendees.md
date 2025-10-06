@@ -69,6 +69,8 @@ This file tracks the attendees for Batch 01 of the `Craft Crew Chronicles`.
 | 61      |  -          | suparera    | 4/10/2568    | 21:25    | -    |  -     |
 | 62      |  แพลงก์ตอน         | Plankton    | 4/10/2568    | 23:45    | -    |  Thirasak1150    |
 | 63      |  -          | purple    | 5/10/2568    | 00:57    | -    |  -     |
+| 64      |  -          | 9Bank Kamo Pipatphan    | 5/10/2568    | 22:20    | -    |  -     |
+| 65      |  ohm          | ohmdob   | 5/10/2568    | 22:27    | ohmdob   |  ohmdob     |
 | 63      |  -          | 9Bank Kamo Pipatphan    | 5/10/2568    | 22:20    | -    |  -     |
 | 64      |  -          | win    | -    | -    | Sittiporn Kawee    |  stpwin     |
 | 65      |  -          | Yim Sutthinee    | -    | -    | Yim Sutthinee    |  Yim Sutthinee     |
@@ -82,4 +84,4 @@ This file tracks the attendees for Batch 01 of the `Craft Crew Chronicles`.
 ### Workshop Statistics
 - Date 3/10/2568: 24 participants
 - Date 4/10/2568: 33 participants
-- Date 5/10/2568: 1 participant
+- Date 5/10/2568: 2 participant
