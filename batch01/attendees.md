@@ -42,15 +42,15 @@ This file tracks the attendees for Batch 01 of the `Craft Crew Chronicles`.
 | 34      |  -          | yuto    | 4/10/2568    | 06:28    | -    |  -     |
 | 35      |  -          | Johnwick5    | 4/10/2568    | 06:45    | -    |  -     |
 | 36      |  -          | ArigatoKun    | 4/10/2568    | 07:00    | -    |  -     |
-| 37      |  -          | non \| non ⌐◨-◨    | 4/10/2568    | 07:11    | -    |  -     |
+| 37      |  นนท์          | non \| non ⌐◨-◨    | 4/10/2568    | 07:11    | Nonthasak Laoluerat |  mojisejr     |
 | 38      |  -          | rutch5355    | 4/10/2568    | 07:12    | -    |  -     |
-| 39      |  -          | Firstnapat    | 4/10/2568    | 07:12    | -    |  -     |
+| 39      |  เฟิส          | Firstnapat    | 4/10/2568    | 07:12    | Napatsakorn Pianchana    |  firstnapat     |
 | 40      |  นัท          | Nnnnut    | 4/10/2568    | 07:12    | Kamonwat Ratchakot    |  nuttooo     |
 | 41      |  -          | 1FLOW    | 4/10/2568    | 07:13    | -    |  -     |
 | 42      |  -          | keng    | 4/10/2568    | 09:43    | -    |  -     |
 | 43      |  -          | MARCHGIE 1265368926    | 4/10/2568    | 09:44    | -    |  -     |
 | 44      | Hashim          | Hashim.    | 4/10/2568    | 09:48    | Hashim Ruengsupapichat    |  hashim     |
-| 45      |  -          | 𝐏𝐓𝐃    | 4/10/2568    | 10:23    | -    |  -     |
+| 45      |  ปอ          | 𝐏𝐓𝐃    | 4/10/2568    | 10:23    | -    |  porjinwoo     |
 | 46      |  -          | ballworawut_    | 4/10/2568    | 10:28    | -    |  -     |
 | 47      |  -          | Charkrid    | 4/10/2568    | 10:29    | -    |  -     |
 | 48      |  -          | Bentley    | 4/10/2568    | 10:41    | -    |  -     |
@@ -61,7 +61,7 @@ This file tracks the attendees for Batch 01 of the `Craft Crew Chronicles`.
 | 53      |  -          | chokky_25    | 4/10/2568    | 14:04    | -    |  -     |
 | 54      |  -          | Macstudiozx    | 4/10/2568    | 14:05    | -    |  -     |
 | 55      |  -          | dearxoasis    | 4/10/2568    | 14:09    | -    |  -     |
-| 56      |  -          | Mek    | 4/10/2568    | 15:00    | -    |  -     |
+| 56      |  เมฆ          | Mek    | 4/10/2568    | 15:00    | Suthawee Weraphong    |  SuthaweeWeraphongCode     |
 | 57      |  -          | AomsiN The F#    | 4/10/2568    | 15:09    | -    |  -     |
 | 58      |  -          | holywisdom    | 4/10/2568    | 15:17    | -    |  -     |
 | 59      |  ต้า         | TAR    | 4/10/2568    | 15:34    | -    |  -     |
@@ -84,6 +84,10 @@ This file tracks the attendees for Batch 01 of the `Craft Crew Chronicles`.
 | 73     |  กิจ        |  KitAyu    |  -    |  -    |  supakit anupong |  kingits  |
 | 74     |  Jack        |  Jack Logmatt |  -    |  -    |  Jack Logmatt |  smilexth  |
 | 75     |  น็อต        |  Not |  -    |  -    |  Nuttawut Putta |  notza001  |
+| 76     |  ต้น        |  TonYamano |  -    |  -    |  - |  tonyamano24  |
+| 77     |  Ice        |  ice |  -    |  -    |  iceatis |  atiswetosot  |
+| 78     |  Bee        | Bee  |  -    |  -    |  xi.ya.xay.kha |  haocomm  |
+| 79     |  อาร์ม        |  Arm Akharin |  -    |  -    |  Akharin Sukcharoen |  armakharin  |
 
 
 
