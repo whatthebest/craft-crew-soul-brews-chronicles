@@ -44,7 +44,7 @@ This file tracks the attendees for Batch 01 of the `Craft Crew Chronicles`.
 | 36      |  -          | ArigatoKun    | 4/10/2568    | 07:00    | -    |  -     |
 | 37      |  นนท์          | non \| non ⌐◨-◨    | 4/10/2568    | 07:11    | Nonthasak Laoluerat |  mojisejr     |
 | 38      |  -          | rutch5355    | 4/10/2568    | 07:12    | -    |  -     |
-| 39      |  -          | Firstnapat    | 4/10/2568    | 07:12    | -    |  -     |
+| 39      |  เฟิส          | Firstnapat    | 4/10/2568    | 07:12    | Napatsakorn Pianchana    |  firstnapat     |
 | 40      |  นัท          | Nnnnut    | 4/10/2568    | 07:12    | Kamonwat Ratchakot    |  nuttooo     |
 | 41      |  -          | 1FLOW    | 4/10/2568    | 07:13    | -    |  -     |
 | 42      |  -          | keng    | 4/10/2568    | 09:43    | -    |  -     |
@@ -86,6 +86,9 @@ This file tracks the attendees for Batch 01 of the `Craft Crew Chronicles`.
 | 75     |  ต้น        |  TonYamano |  -    |  -    |  - |  tonyamano24  |
 | 76     |  Ice        |  ice |  -    |  -    |  iceatis |  atiswetosot  |
 | 77     |  Bee        | Bee  |  -    |  -    |  xi.ya.xay.kha |  haocomm  |
+| 78     |  อาร์ม        |  Arm Akharin |  -    |  -    |  Akharin Sukcharoen |  armakharin  |
+
+
 
 
 **Total:** 66 attendees (58 workshop participants merged with 17 detailed attendee records)
