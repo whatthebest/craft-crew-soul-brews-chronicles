@@ -22,7 +22,7 @@ This file tracks the attendees for Batch 01 of the `Craft Crew Chronicles`.
 | 14      |  พงษ์          | pong_pk007    | -    | -    | Pongsathon Somjai |  pong-pk007 |
 | 15      |  เอิง        | eangaoey / Eangaoey   | 3/10/2568    | 21:16    | Pusacha Thitivorn |  eangaoey |
 | 16      |  BM          | BM    | 3/10/2568    | 21:25    | Yutakit Bm |  Yutthakit |
-| 17      |  -          | POR.    | 3/10/2568    | 21:09    | -    |  -     |
+| 17      |  ปอ          | POR.    | 3/10/2568    | 21:09    | Yuttasak Chatpatchanon    | ROYALCLUB-CM     |
 | 18      |  -          | x-kungz    | 3/10/2568    | 21:14    | -    |  -     |
 | 19      |  -          | TongMaster    | 3/10/2568    | 21:15    | -    |  -     |
 | 20      |  -          | K.Fluke    | 3/10/2568    | 21:15    | -    |  -     |
@@ -38,7 +38,7 @@ This file tracks the attendees for Batch 01 of the `Craft Crew Chronicles`.
 | 30      |  -          | Parit    | 3/10/2568    | 22:13    | -    |  -     |
 | 31      |  -          | Jarkius    | 3/10/2568    | 22:16    | -    |  -     |
 | 32      |  -          | SanTi    | 3/10/2568    | 22:48    | -    |  -     |
-| 33      |  -          | Jirayu S    | 3/10/2568    | 23:22    | -    |  -     |
+| 33      |  แบงค์          | Jirayu S    | 3/10/2568    | 23:22    | -    |  Jirayu Saengwannakool     |
 | 34      |  -          | yuto    | 4/10/2568    | 06:28    | -    |  -     |
 | 35      |  -          | Johnwick5    | 4/10/2568    | 06:45    | -    |  -     |
 | 36      |  -          | ArigatoKun    | 4/10/2568    | 07:00    | -    |  -     |
@@ -64,14 +64,26 @@ This file tracks the attendees for Batch 01 of the `Craft Crew Chronicles`.
 | 56      |  -          | Mek    | 4/10/2568    | 15:00    | -    |  -     |
 | 57      |  -          | AomsiN The F#    | 4/10/2568    | 15:09    | -    |  -     |
 | 58      |  -          | holywisdom    | 4/10/2568    | 15:17    | -    |  -     |
-| 59      |  -          | TAR    | 4/10/2568    | 15:34    | -    |  -     |
+| 59      |  ต้า         | TAR    | 4/10/2568    | 15:34    | -    |  -     |
 | 60      |  -          | BEST    | 4/10/2568    | 15:54    |Eakbordin Fueangkaew    |whatthebest     |
 | 61      |  -          | suparera    | 4/10/2568    | 21:25    | -    |  -     |
-| 62      |  -          | Plankton    | 4/10/2568    | 23:45    | -    |  -     |
+| 62      |  แพลงก์ตอน         | Plankton    | 4/10/2568    | 23:45    | -    |  Thirasak1150    |
 | 63      |  -          | purple    | 5/10/2568    | 00:57    | -    |  -     |
-| 63      |  -          | 9Bank Kamo Pipatphan    | 5/10/2568    | 22:20    | -    |  -     |
-| 64      |  Jack          | Jack Logmatt    | - | -    | -    |  smilexth    **Total:** 64 attendees (58 workshop participants merged with 16 detailed attendee records)
+| 64      |  Jack          | Jack Logmatt    | - | -    | -    |  smilexth     |
+| 65      |  ohm          | ohmdob   | 5/10/2568    | 22:27    | ohmdob   |  ohmdob     |
+| 66      |  -          | win    | -    | -    | Sittiporn Kawee    |  stpwin     |
+| 67      |  -          | Yim Sutthinee    | -    | -    | Yim Sutthinee    |  Yim Sutthinee     |
+| 68      |  ลี่          | dr.nasa.    | -    | -    | Roongroj Phetkheaw    | DoctorNasa      |
+| 69      |  Gap          | Goo__ooD    | 6/10/2568    | 09:20    |Komkat Meuansechai    |x10geeky     |
+| 70      |  ท๊อฟฟี่          | toffee    | -    | -    | -    |  -     |
+| 71      |  เท็น        |  Ten    |  -    |  -    |  Tanawat Palaboon |  ten852456  |
+| 72      | เดียว        | Dyo8144 | -     |   -   |   -                |  SuttirakS |
+| 73      | bo          | Meyd-605 | 6/10/2568| 10:47 | sujit manitayakul | Meyd-605 |
+| 74      |  กก        |  Tonkok    |  -    |  -    |  napat sarapat |  sarapat-tonkok  |
+| 75     |  กิจ        |  KitAyu    |  -    |  -    |  supakit anupong |  kingits  |
+**Total:** 67 attendees (59 workshop participants merged with 18 detailed attendee records)
 ### Workshop Statistics
 - Date 3/10/2568: 24 participants
 - Date 4/10/2568: 33 participants
-- Date 5/10/2568: 1 participant
+- Date 5/10/2568: 2 participants
+- Date 6/10/2568: 2 participants
