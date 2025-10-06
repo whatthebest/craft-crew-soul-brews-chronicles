@@ -69,21 +69,22 @@ This file tracks the attendees for Batch 01 of the `Craft Crew Chronicles`.
 | 61      |  -          | suparera    | 4/10/2568    | 21:25    | -    |  -     |
 | 62      |  แพลงก์ตอน         | Plankton    | 4/10/2568    | 23:45    | -    |  Thirasak1150    |
 | 63      |  -          | purple    | 5/10/2568    | 00:57    | -    |  -     |
-| 64      |  Jack          | Jack Logmatt    | -| -    | -   |  smilexth     |
+| 64      |  -          | 9Bank Kamo Pipatphan    | 5/10/2568    | 22:20    | -    |  -     |
 | 65      |  ohm          | ohmdob   | 5/10/2568    | 22:27    | ohmdob   |  ohmdob     |
-| 66      |  -          | win    | -    | -    | Sittiporn Kawee    |  stpwin     |
-| 67      |  -          | Yim Sutthinee    | -    | -    | Yim Sutthinee    |  Yim Sutthinee     |
-| 68      |  ลี่          | dr.nasa.    | -    | -    | Roongroj Phetkheaw    | DoctorNasa      |
-| 69      |  Gap          | Goo__ooD    | 6/10/2568    | 09:20    |Komkat Meuansechai    |x10geeky     |
-| 70      |  ท๊อฟฟี่          | toffee    | -    | -    | -    |  -     |
-| 71      |  เท็น        |  Ten    |  -    |  -    |  Tanawat Palaboon |  ten852456  |
-| 72      | เดียว        | Dyo8144 | -     |   -   |   -                |  SuttirakS |
-| 73      | bo          | Meyd-605 | 6/10/2568| 10:47 | sujit manitayakul | Meyd-605 |
-| 74      |  กก        |  Tonkok    |  -    |  -    |  napat sarapat |  sarapat-tonkok  |
-| 75     |  กิจ        |  KitAyu    |  -    |  -    |  supakit anupong |  kingits  |
-**Total:** 67 attendees (59 workshop participants merged with 18 detailed attendee records)
+| 63      |  -          | 9Bank Kamo Pipatphan    | 5/10/2568    | 22:20    | -    |  -     |
+| 64      |  -          | win    | -    | -    | Sittiporn Kawee    |  stpwin     |
+| 65      |  -          | Yim Sutthinee    | -    | -    | Yim Sutthinee    |  Yim Sutthinee     |
+| 66      |  ลี่          | dr.nasa.    | -    | -    | Roongroj Phetkheaw    | DoctorNasa      |
+| 67      |  Gap          | Goo__ooD    | 6/10/2568    | 09:20    |Komkat Meuansechai    |x10geeky     |
+| 68      |  ท๊อฟฟี่          | toffee    | -    | -    | -    |  -     |
+| 69      |  เท็น        |  Ten    |  -    |  -    |  Tanawat Palaboon |  ten852456  |
+| 70      | เดียว        | Dyo8144 | -     |   -   |   -                |  SuttirakS |    
+| 71      | bo          | Meyd-605 | 6/10/2568| 10:47 | sujit manitayakul | Meyd-605 |
+| 72      |  กก        |  Tonkok    |  -    |  -    |  napat sarapat |  sarapat-tonkok  |
+| 73     |  กิจ        |  KitAyu    |  -    |  -    |  supakit anupong |  kingits  |
+**Total:** 65 attendees (58 workshop participants merged with 16 detailed attendee records)
+
 ### Workshop Statistics
 - Date 3/10/2568: 24 participants
 - Date 4/10/2568: 33 participants
-- Date 5/10/2568: 2 participants
-- Date 6/10/2568: 2 participants
+- Date 5/10/2568: 2 participant
