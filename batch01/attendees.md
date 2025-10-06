@@ -67,8 +67,10 @@ This file tracks the attendees for Batch 01 of the `Craft Crew Chronicles`.
 | 59      |  -          | TAR    | 4/10/2568    | 15:34    | -    |  -     |
 | 60      |  -          | BEST    | 4/10/2568    | 15:54    |Eakbordin Fueangkaew    |whatthebest     |
 | 61      |  -          | suparera    | 4/10/2568    | 21:25    | -    |  -     |
-| 62      |  -          | Plankton    | 4/10/2568    | 23:45    | -    |  -     |
+| 62      |  แพลงก์ตอน         | Plankton    | 4/10/2568    | 23:45    | -    |  Thirasak1150    |
 | 63      |  -          | purple    | 5/10/2568    | 00:57    | -    |  -     |
+| 64      |  -          | 9Bank Kamo Pipatphan    | 5/10/2568    | 22:20    | -    |  -     |
+| 65      |  ohm          | ohmdob   | 5/10/2568    | 22:27    | ohmdob   |  ohmdob     |
 | 63      |  -          | 9Bank Kamo Pipatphan    | 5/10/2568    | 22:20    | -    |  -     |
 | 64      |  -          | win    | -    | -    | Sittiporn Kawee    |  stpwin     |
 | 65      |  -          | Yim Sutthinee    | -    | -    | Yim Sutthinee    |  Yim Sutthinee     |
@@ -76,9 +78,10 @@ This file tracks the attendees for Batch 01 of the `Craft Crew Chronicles`.
 | 67      |  Gap          | Goo__ooD    | 6/10/2568    | 09:20    |Komkat Meuansechai    |x10geeky     |
 | 68      |  ท๊อฟฟี่          | toffee    | -    | -    | -    |  -     |
 | 69 | bo | Meyd-605 | 6/10/2568| 10:47 | sujit manitayakul | Meyd-605 |
+| 70      |  เท็น        |  Ten    |  -    |  -    |  Tanawat Palaboon |  ten852456  |
 **Total:** 65 attendees (58 workshop participants merged with 16 detailed attendee records)
 
 ### Workshop Statistics
 - Date 3/10/2568: 24 participants
 - Date 4/10/2568: 33 participants
-- Date 5/10/2568: 1 participant
+- Date 5/10/2568: 2 participant
