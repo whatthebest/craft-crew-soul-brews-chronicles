@@ -77,9 +77,10 @@ This file tracks the attendees for Batch 01 of the `Craft Crew Chronicles`.
 | 66      |  ลี่          | dr.nasa.    | -    | -    | Roongroj Phetkheaw    | DoctorNasa      |
 | 67      |  Gap          | Goo__ooD    | 6/10/2568    | 09:20    |Komkat Meuansechai    |x10geeky     |
 | 68      |  ท๊อฟฟี่          | toffee    | -    | -    | -    |  -     |
-| 69 | bo | Meyd-605 | 6/10/2568| 10:47 | sujit manitayakul | Meyd-605 |
-| 70      |  เท็น        |  Ten    |  -    |  -    |  Tanawat Palaboon |  ten852456  |
-| 71      |  กก        |  Tonkok    |  -    |  -    |  napat sarapat |  sarapat-tonkok  |
+| 69      |  เท็น        |  Ten    |  -    |  -    |  Tanawat Palaboon |  ten852456  |
+| 70      | เดียว        | Dyo8144 | -     |   -   |   -                |  SuttirakS |    
+| 71      | bo          | Meyd-605 | 6/10/2568| 10:47 | sujit manitayakul | Meyd-605 |
+| 72      |  กก        |  Tonkok    |  -    |  -    |  napat sarapat |  sarapat-tonkok  |
 **Total:** 65 attendees (58 workshop participants merged with 16 detailed attendee records)
 
 ### Workshop Statistics
