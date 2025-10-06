@@ -78,6 +78,7 @@ This file tracks the attendees for Batch 01 of the `Craft Crew Chronicles`.
 | 67      |  Gap          | Goo__ooD    | 6/10/2568    | 09:20    |Komkat Meuansechai    |x10geeky     |
 | 68      |  ท๊อฟฟี่          | toffee    | -    | -    | -    |  -     |
 | 69      |  เท็น        |  Ten    |  -    |  -    |  Tanawat Palaboon |  ten852456  |
+| 70      | เดียว        | Dyo8144 | -     |   -   |   -                |  SuttirakS |    
 
 **Total:** 65 attendees (58 workshop participants merged with 16 detailed attendee records)
 
