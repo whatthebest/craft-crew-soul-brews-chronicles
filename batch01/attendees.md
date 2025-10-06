@@ -42,7 +42,7 @@ This file tracks the attendees for Batch 01 of the `Craft Crew Chronicles`.
 | 34      |  -          | yuto    | 4/10/2568    | 06:28    | -    |  -     |
 | 35      |  -          | Johnwick5    | 4/10/2568    | 06:45    | -    |  -     |
 | 36      |  -          | ArigatoKun    | 4/10/2568    | 07:00    | -    |  -     |
-| 37      |  -          | non \| non ⌐◨-◨    | 4/10/2568    | 07:11    | -    |  -     |
+| 37      |  นนท์          | non \| non ⌐◨-◨    | 4/10/2568    | 07:11    | Nonthasak Laoluerat |  mojisejr     |
 | 38      |  -          | rutch5355    | 4/10/2568    | 07:12    | -    |  -     |
 | 39      |  -          | Firstnapat    | 4/10/2568    | 07:12    | -    |  -     |
 | 40      |  นัท          | Nnnnut    | 4/10/2568    | 07:12    | Kamonwat Ratchakot    |  nuttooo     |
