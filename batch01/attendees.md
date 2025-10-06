@@ -83,11 +83,11 @@ This file tracks the attendees for Batch 01 of the `Craft Crew Chronicles`.
 | 72      |  กก        |  Tonkok    |  -    |  -    |  napat sarapat |  sarapat-tonkok  |
 | 73     |  กิจ        |  KitAyu    |  -    |  -    |  supakit anupong |  kingits  |
 | 74     |  Jack        |  Jack Logmatt |  -    |  -    |  Jack Logmatt |  smilexth  |
-| 75     |  ต้น        |  TonYamano |  -    |  -    |  - |  tonyamano24  |
-| 76     |  Ice        |  ice |  -    |  -    |  iceatis |  atiswetosot  |
-| 77     |  Bee        | Bee  |  -    |  -    |  xi.ya.xay.kha |  haocomm  |
-| 78     |  อาร์ม        |  Arm Akharin |  -    |  -    |  Akharin Sukcharoen |  armakharin  |
-
+| 75     |  น็อต        |  Not |  -    |  -    |  Nuttawut Putta |  notza001  |
+| 76     |  ต้น        |  TonYamano |  -    |  -    |  - |  tonyamano24  |
+| 77     |  Ice        |  ice |  -    |  -    |  iceatis |  atiswetosot  |
+| 78     |  Bee        | Bee  |  -    |  -    |  xi.ya.xay.kha |  haocomm  |
+| 79     |  อาร์ม        |  Arm Akharin |  -    |  -    |  Akharin Sukcharoen |  armakharin  |
 
 
 
